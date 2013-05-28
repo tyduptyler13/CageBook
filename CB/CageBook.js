@@ -142,9 +142,9 @@ $(function(){
 			element.src = chrome.runtime.getURL(photos[i++ % photos.length]);
 		});
 	};
+	
+	$(document).bind("DOMNodeInserted", attack);
 
 	attack();
-
-	window.onp
 
 });
