@@ -1,11 +1,14 @@
 {
     "name": "CageBook",
-    "version": "1.0",
+    "version": "1.1",
     "manifest_version": 2,
     "description": "A funny facebook script.",
     "permissions": [
         "*://www.facebook.com/*"
     ],
+	"icons": {
+		"128": "cagebook.png"
+	},
     "web_accessible_resources": [
         "CagePhotos/5f7.jpg",
         "CagePhotos/93d.png",
