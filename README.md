@@ -10,7 +10,7 @@ The pictures are not included on the git and are only available from the store o
 
 Download
 ----
-Store link is not available yet. (Working on it)
+[Google webstore](http://adf.ly/Pnnbo) (Automatic updates)
 
 [Direct download](http://adf.ly/2843532/cagebook-direct) (It won't update automatically)
 
